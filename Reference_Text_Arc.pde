@@ -1,9 +1,9 @@
-//interger variables
+//integer variables
 int X=50;
 int Y=50;
 int bounce= 1;
 
-//sets up the enviroment
+//sets up the environment
 void setup() {
   size(200,200);
 }
